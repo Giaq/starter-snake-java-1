@@ -1,4 +1,4 @@
-package com.battlesnake.starter;
+package src.main.java.com.battlesnake.starter;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
